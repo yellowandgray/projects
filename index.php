@@ -126,7 +126,7 @@
                                 <div class="one-third color-1 animate-box">
                                     <span class="icon"><i class="flaticon-market"></i></span>
                                     <div class="desc">
-                                        <h3>WHAT MAKES US DIFFERENT</h3>
+                                        <h3>TEACHING & LEARNING  METHODOLOGIES</h3>
                                         <p><a href="#" class="view-more">View More</a></p>
                                     </div>
                                 </div>

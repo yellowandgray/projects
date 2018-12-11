@@ -3,3 +3,8 @@
 .blue-color {
     color: #429ffc;
 }
+
+@media screen and (max-width: 1583px) {
+    .flexslider li {
+        height: 600px; } 
+}
