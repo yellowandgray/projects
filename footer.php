@@ -72,10 +72,10 @@
                 <div class="col-md-12 text-center">
                     <p>
                         <small class="block">&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | ENPEE International School
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </small><br> 
-                        <small class="block">Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a>, <a href="http://pexels.com/" target="_blank">Pexels</a></small>
+                        <small class="block">Designed by <a href="https://www.yellowandgray.com" target="_blank">YG Studio.</a></small>
                     </p>
                 </div>
             </div>
@@ -107,3 +107,4 @@
 <script src="js/jquery.countTo.js"></script>
 <!-- Main -->
 <script src="js/main.js"></script>
+<script src="js/slick.js" type="text/javascript"></script>

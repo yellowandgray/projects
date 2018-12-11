@@ -3,3 +3,29 @@
 .blue-color {
     color: #429ffc;
 }
+.margin-bottom-40 {margin-bottom: 40px;}
+.boder-10 { border-bottom: 10px solid #07a8e6; margin-left: -15px;}
+.boder-2 { border-bottom: 10px solid #b3bb05; margin-right: -15px; margin-left: -25px;}
+.bold {font-weight: bold;}
+.color-white {color: #ffffff;}
+.float-right {float: right;}
+.btn-color {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #fff;
+    padding: 20px 30px !important;
+    border: none;
+    background: #b3bb05;
+}
+.btn-color:hover {color: #fff; background: #429ffc; border: 1px solid #b3bb05;}
+#colorlib-subscribe h3 {font-size: 20px; color: #fff;}
+#dropdown-select {
+    font-size: 14px;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin: 10px 0;
+    height: 30px;
+}

@@ -1,24 +1,24 @@
 <nav class="colorlib-nav" role="navigation">
-<!--    <div class="upper-menu">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-4">
-                    <p>Welcome to ENPEE International School</p>
-                </div>
-                <div class="col-xs-6 col-md-push-2 text-right">
-                    <p>
-                    <ul class="colorlib-social-icons">
-                        <li><a href="#"><i class="icon-twitter"></i></a></li>
-                        <li><a href="#"><i class="icon-facebook"></i></a></li>
-                        <li><a href="#"><i class="icon-linkedin"></i></a></li>
-                        <li><a href="#"><i class="icon-dribbble"></i></a></li>
-                    </ul>
-                    </p>
-                    <p class="btn-apply"><a href="#">Apply Now</a></p>
+    <!--    <div class="upper-menu">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-4">
+                        <p>Welcome to ENPEE International School</p>
+                    </div>
+                    <div class="col-xs-6 col-md-push-2 text-right">
+                        <p>
+                        <ul class="colorlib-social-icons">
+                            <li><a href="#"><i class="icon-twitter"></i></a></li>
+                            <li><a href="#"><i class="icon-facebook"></i></a></li>
+                            <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                            <li><a href="#"><i class="icon-dribbble"></i></a></li>
+                        </ul>
+                        </p>
+                        <p class="btn-apply"><a href="#">Apply Now</a></p>
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>-->
+        </div>-->
     <div class="top-menu">
         <div class="container">
             <div class="row">
@@ -31,7 +31,7 @@
                         <li class="has-dropdown">
                             <a href="courses.html">About Us</a>
                             <ul class="dropdown">
-                                <li><a href="courses-single.html">Promoters</a></li>
+                                <li><a href="#">Promoters</a></li>
                                 <li><a href="#">Management</a></li>
                                 <li><a href="#">Our Vision</a></li>
                                 <li><a href="#">Our Mission</a></li>
@@ -59,5 +59,11 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="col-md-8">
+        <div class="boder-10"></div>
+    </div>
+    <div class="col-md-4">
+        <div class="boder-2"></div>
     </div>
 </nav>

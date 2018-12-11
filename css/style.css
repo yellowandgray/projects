@@ -57,7 +57,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
     color: #000;
-    font-family: "Playfair Display", Georgia, serif;
+    font-family: "arial";
     font-weight: 400;
     margin: 0 0 20px 0;
     line-height: 1.5; }
@@ -125,7 +125,7 @@ h1, h2, h3, h4, h5, h6, figure {
     font-size: 13px;
     text-transform: uppercase; }
 .colorlib-nav .upper-menu .btn-apply a {
-        color: rgb(0, 0, 0); }
+    color: rgb(0, 0, 0); }
 .colorlib-nav .top-menu {
     padding: 15px 30px; }
 @media screen and (max-width: 768px) {
@@ -316,7 +316,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #colorlib-hero .flexslider .slides li {
     background-repeat: no-repeat;
     background-size: cover;
-/*    background-position: center center;*/
+    /*    background-position: center center;*/
     min-height: 600px;
     position: relative; }
 #colorlib-hero .flexslider .slides li .overlay {
@@ -325,7 +325,7 @@ h1, h2, h3, h4, h5, h6, figure {
     bottom: 0;
     left: 0;
     right: 0;
-    opacity: 0;
+    opacity: 0.4;
     background: #000; }
 #colorlib-hero .flexslider .flex-control-nav {
     bottom: 7em;
@@ -592,7 +592,8 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .counter-entry {
     padding: 0;
-    position: relative; }
+    position: relative;
+    text-align: center;}
 @media screen and (max-width: 768px) {
     .counter-entry {
         margin-bottom: 20px; } }
@@ -610,7 +611,7 @@ h1, h2, h3, h4, h5, h6, figure {
     right: 0;
     background: rgba(0, 0, 0, 0.7); }
 .colorlib-counters .icon {
-    position: absolute;
+    /*    position: absolute;*/
     top: 0;
     left: 0;
     margin-bottom: 20px;
@@ -621,7 +622,7 @@ h1, h2, h3, h4, h5, h6, figure {
     color: rgba(255, 255, 255, 0.9);
     z-index: 1; }
 .colorlib-counters .desc {
-    padding-left: 80px; }
+    /*    padding-left: 80px; */}
 .colorlib-counters .colorlib-counter {
     font-size: 40px;
     display: block;
@@ -633,10 +634,10 @@ h1, h2, h3, h4, h5, h6, figure {
 .colorlib-counters .colorlib-counter-label {
     color: rgba(255, 255, 255, 0.6);
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 18px;
     letter-spacing: 3px;
     display: block;
-    font-weight: 400; }
+    font-weight: 700; }
 
 .trainers-entry {
     z-index: 0; }
@@ -654,11 +655,12 @@ h1, h2, h3, h4, h5, h6, figure {
     margin-top: -30px;
     margin-bottom: 20px; }
 .trainers-entry .desc h3 {
-    font-size: 18px;
+    font-size: 13px;
     margin-bottom: 5px;
     font-weight: 500;
     text-transform: uppercase;
-    color: #fff; }
+    color: #fff;
+    text-align: center; }
 .trainers-entry .desc span {
     font-size: 13px;
     color: rgba(255, 255, 255, 0.7); }
@@ -704,9 +706,10 @@ h1, h2, h3, h4, h5, h6, figure {
     border-width: 18px 30px 0 30px;
     border-color: #FFC300 transparent transparent transparent; }
 .classes .classes-img .price small {
-    font-weight: 400;
+    font-weight: 700;
     display: table-cell;
-    vertical-align: middle; }
+    vertical-align: middle;
+    font-size: 15px; }
 
 .classes .desc {
     padding: 2em 1.5em 1.5em; }
@@ -836,7 +839,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #colorlib-testimony .colorlib-heading {
     margin-bottom: 3em; }
 #colorlib-testimony .colorlib-heading h2 {
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 700;
     text-transform: uppercase;
     color: rgba(255, 255, 255, 0.9);
@@ -1109,8 +1112,8 @@ h1, h2, h3, h4, h5, h6, figure {
     box-shadow: none;
     border: 1px solid #cccccc; }
 
-input[type="text"] {
-    height: 50px; }
+/*input[type="text"] {
+    height: 50px; }*/
 
 .form-group {
     margin-bottom: 30px; }
@@ -1232,18 +1235,20 @@ input[type="text"] {
     font-size: 14px;
     width: 100%;
     border: none;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-    color: rgba(255, 255, 255, 0.6); }
+    border-bottom: 1px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    margin: 10px 0;}
 .qbstp-header-subscribe button {
-    border-top-left-radius: 0px !important;
-    border-bottom-left-radius: 0px !important;
+/*    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;*/
     color: #fff;
     border: none;
     padding: 10px 20px;
     text-transform: uppercase;
     height: 50px;
     width: 100%;
-    display: block; }
+    display: block;
+margin-top: 25px}
 
 #colorlib-footer {
     padding-top: 6em;
