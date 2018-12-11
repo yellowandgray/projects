@@ -317,7 +317,7 @@ h1, h2, h3, h4, h5, h6, figure {
     background-repeat: no-repeat;
     background-size: cover;
 /*    background-position: center center;*/
-    min-height: 750px;
+    min-height: 600px;
     position: relative; }
 #colorlib-hero .flexslider .slides li .overlay {
     position: absolute;

@@ -1,5 +1,5 @@
 <nav class="colorlib-nav" role="navigation">
-    <div class="upper-menu">
+<!--    <div class="upper-menu">
         <div class="container">
             <div class="row">
                 <div class="col-xs-4">
@@ -18,7 +18,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
     <div class="top-menu">
         <div class="container">
             <div class="row">

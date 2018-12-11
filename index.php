@@ -14,20 +14,20 @@
                             <div class="overlay"></div>
                             <div class="container-fluid">
                                 <div class="row">
-                                    <div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
+                                    <div class="col-md-8 col-sm-12 slider-text">
                                         <div class="slider-text-inner text-center">
-                                            <h1>Best Online Learning System</h1>
+                                            <h1>Knowledge </h1>
                                             <p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </li>
-<!--                        <li style="background-image: url(images/banner-02.jpg);">
+                        <li style="background-image: url(images/banner-02.jpg);">
                             <div class="overlay"></div>
                             <div class="container-fluid">
                                 <div class="row">
-                                    <div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
+                                    <div class="col-md-8 col-sm-12 slider-text">
                                         <div class="slider-text-inner text-center">
                                             <h1>Online Free Course</h1>
                                             <p><a href="#" class="btn btn-primary btn-lg btn-learn">Free Trial</a></p>
@@ -35,12 +35,12 @@
                                     </div>
                                 </div>
                             </div>
-                        </li>-->
+                        </li>
                         <li style="background-image: url(images/banner-03.jpg);">
                             <div class="overlay"></div>
                             <div class="container-fluid">
                                 <div class="row">
-                                    <div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
+                                    <div class="col-md-8 col-sm-12 slider-text">
                                         <div class="slider-text-inner text-center">
                                             <h1>Education is a Key to Success</h1>
                                             <p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
@@ -53,7 +53,7 @@
                             <div class="overlay"></div>
                             <div class="container-fluid">
                                 <div class="row">
-                                    <div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
+                                    <div class="col-md-8 col-sm-12 slider-text">
                                         <div class="slider-text-inner text-center">
                                             <h1>Best Online Learning Center</h1>
                                             <p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
@@ -66,7 +66,7 @@
                             <div class="overlay"></div>
                             <div class="container-fluid">
                                 <div class="row">
-                                    <div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
+                                    <div class="col-md-8 col-sm-12 slider-text">
                                         <div class="slider-text-inner text-center">
                                             <h1>Best Online Learning Center</h1>
                                             <p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
@@ -79,7 +79,7 @@
                             <div class="overlay"></div>
                             <div class="container-fluid">
                                 <div class="row">
-                                    <div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
+                                    <div class="col-md-8 col-sm-12 slider-text">
                                         <div class="slider-text-inner text-center">
                                             <h1>Best Online Learning Center</h1>
                                             <p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
@@ -92,7 +92,7 @@
                             <div class="overlay"></div>
                             <div class="container-fluid">
                                 <div class="row">
-                                    <div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
+                                    <div class="col-md-8 col-sm-12 slider-text">
                                         <div class="slider-text-inner text-center">
                                             <h1>Best Online Learning Center</h1>
                                             <p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
@@ -105,7 +105,7 @@
                             <div class="overlay"></div>
                             <div class="container-fluid">
                                 <div class="row">
-                                    <div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
+                                    <div class="col-md-8 col-sm-12 slider-text">
                                         <div class="slider-text-inner text-center">
                                             <h1>Best Online Learning Center</h1>
                                             <p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
@@ -126,7 +126,7 @@
                                 <div class="one-third color-1 animate-box">
                                     <span class="icon"><i class="flaticon-market"></i></span>
                                     <div class="desc">
-                                        <h3>TEACHING & LEARNING  METHODOLOGIES</h3>
+                                        <h3>WHAT MAKES US DIFFERENT</h3>
                                         <p><a href="#" class="view-more">View More</a></p>
                                     </div>
                                 </div>
