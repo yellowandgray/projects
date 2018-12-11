@@ -16,7 +16,7 @@
                                 <div class="row">
                                     <div class="col-md-8 col-sm-12 slider-text">
                                         <div class="slider-text-inner text-center">
-                                            <h1>Knowledge </h1>
+                                            <h1>Knowledge Innovation Excellence</h1>
                                             <p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
                                         </div>
                                     </div>
@@ -29,7 +29,7 @@
                                 <div class="row">
                                     <div class="col-md-8 col-sm-12 slider-text">
                                         <div class="slider-text-inner text-center">
-                                            <h1>Online Free Course</h1>
+                                            <h1>Children Friendly Environment</h1>
                                             <p><a href="#" class="btn btn-primary btn-lg btn-learn">Free Trial</a></p>
                                         </div>
                                     </div>
@@ -42,7 +42,7 @@
                                 <div class="row">
                                     <div class="col-md-8 col-sm-12 slider-text">
                                         <div class="slider-text-inner text-center">
-                                            <h1>Education is a Key to Success</h1>
+                                            <h1>Learner Oriented Labs</h1>
                                             <p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
                                         </div>
                                     </div>
@@ -55,7 +55,7 @@
                                 <div class="row">
                                     <div class="col-md-8 col-sm-12 slider-text">
                                         <div class="slider-text-inner text-center">
-                                            <h1>Best Online Learning Center</h1>
+                                            <h1>Interactive Approach</h1>
                                             <p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
                                         </div>
                                     </div>
@@ -81,7 +81,7 @@
                                 <div class="row">
                                     <div class="col-md-8 col-sm-12 slider-text">
                                         <div class="slider-text-inner text-center">
-                                            <h1>Best Online Learning Center</h1>
+                                            <h1>Group Activity Studio</h1>
                                             <p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
                                         </div>
                                     </div>
@@ -94,7 +94,7 @@
                                 <div class="row">
                                     <div class="col-md-8 col-sm-12 slider-text">
                                         <div class="slider-text-inner text-center">
-                                            <h1>Best Online Learning Center</h1>
+                                            <h1>FootBall Ground</h1>
                                             <p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
                                         </div>
                                     </div>
@@ -107,7 +107,7 @@
                                 <div class="row">
                                     <div class="col-md-8 col-sm-12 slider-text">
                                         <div class="slider-text-inner text-center">
-                                            <h1>Best Online Learning Center</h1>
+                                            <h1>Swimming Pool</h1>
                                             <p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
                                         </div>
                                     </div>
@@ -126,20 +126,20 @@
                                 <div class="one-third color-1 animate-box">
                                     <span class="icon"><i class="flaticon-market"></i></span>
                                     <div class="desc">
-                                        <h3>WHAT MAKES US DIFFERENT</h3>
+                                        <h3>TEACHING & LEARNING  METHODOLOGIES</h3>
                                         <p><a href="#" class="view-more">View More</a></p>
                                     </div>
                                 </div>
                                 <div class="one-third color-2 animate-box">
                                     <span class="icon"><i class="flaticon-open-book"></i></span>
                                     <div class="desc">
-                                        <h3>PROGRAMS OFFERED 2019 - 2020</h3>
+                                        <h3>PROGRAMS OFFERED ( Pre-KG - Class V )</h3>
                                         <p><a href="#" class="view-more">View More</a></p>
                                     </div>
                                 </div>
                                 <div class="one-third color-3 animate-box">
                                     <div class="desc2">
-                                        <h3>TEACHING & LEARNING  METHODOLOGIES</h3>
+                                        <h3>WHAT MAKES US DIFFERENT</h3>
                                         <p><a href="#" class="view-more">View More</a></p>
                                     </div>
                                 </div>
@@ -148,8 +148,11 @@
                         <div class="col-md-8">
                             <div class="about-desc animate-box">
                                 <h2>Welcome to <span class="blue-color">ENPEE INTERNATIONAL SCHOOL</span></h2>
-                                <p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way.</p>
-                                <div class="fancy-collapse-panel">
+                                <p>The ENPEE campus covers over 5 acres surrounded by lush greenery and a serene atmosphere suitable for learning. At the heart of our campus, ENPEE International school is home to 22 Classrooms spanning over an incredible area of over 44,000/- sq.ft in its Phase – I, starting from Academic year – 2019-2020.</p>
+                                <p>Our second and Third phases will resume from the successive academic year of 2020-21 and 2021-22 respectively. Our campus will have a football ground, unique sports complex aiding in overall growth & development of an individual, Spacious and learner oriented laboratories, mixed age group activity studio, digitized classrooms.</p>
+                                <p>Our Early Childhood classrooms are , of course open and flexible with lot of places to explore & learn. We have dance, music, theatre incorporated in learning and sports given its due space in learning. Our outdoor spaces teach health, wellbeing & physical education not only to our students, but also to our faculty members. All our classrooms are provided with personal lockers for children to store their belongings, which inculcates self-discipline and responsibility in a child. Our learning spaces are also used outside the school hours for extra curricular activities, coffee mornings for the parental community and other activities.</p>
+                                <p>As our motto goes, Knowledge – Innovation and Excellence, so is our learning space provided by our campus, more than just a school, ENPEE is a haven for our children, faculty and the whole community.</p>
+<!--                                <div class="fancy-collapse-panel">
                                     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                         <div class="panel panel-default">
                                             <div class="panel-heading" role="tab" id="headingOne">
@@ -202,8 +205,23 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div>-->
                             </div>
+                        </div>
+                        <div class="col-md-12">
+                            <h2>Our <span class="blue-color">Vision</span></h2>
+                            <p>To emerge as the most preferred institution offering Quality Education , matching international standards.<br/>To enable, energise and enhance young minds through new learning to conquer excellence.</p>
+                        </div>
+                        <div class="col-md-12">
+                            <h2>Our <span class="blue-color">Mission</span></h2>
+                            <ul>
+                                <li>To become role model in setting standards of Quality Education</li>
+                                <li>To build ably qualified, skilful & dedicated Teaching Fraternity</li>
+                                <li>To impart education of highest standards to all socio-economic sections of society in fullfilment of Corporate Social Responsibility</li>
+                                <li>To provide a safe, secure and Children-friendly Environment</li>
+                                <li>To design and roll over robust and ultra-modern Infrastructure Facilities</li>
+                                <li>To expand the foot-print to nearby districts by establishing similar schools to serve local community</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -218,7 +236,7 @@
                                         <i class="flaticon-books"></i>
                                     </span>
                                     <div class="desc">
-                                        <h3>Professional Courses</h3>
+                                        <h3>Discipline</h3>
                                         <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
                                     </div>
                                 </div>
@@ -229,7 +247,7 @@
                                         <i class="flaticon-professor"></i>
                                     </span>
                                     <div class="desc">
-                                        <h3>Experienced Instructor</h3>
+                                        <h3>Interactive</h3>
                                         <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
                                     </div>
                                 </div>
