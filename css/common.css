@@ -8,6 +8,7 @@
 .boder-2 { border-bottom: 10px solid #b3bb05; margin-right: -15px; margin-left: -25px;}
 .bold {font-weight: bold;}
 .color-white {color: #ffffff;}
+.color-blue {color: #429ffc;}
 .float-right {float: right;}
 .btn-color {
     font-size: 12px;
@@ -29,3 +30,9 @@
     margin: 10px 0;
     height: 30px;
 }
+
+.color-yellow {background: #FFD500 !important; }
+.color-red {background: #D12929 !important;}
+.color-green{background: #97C923 !important;}
+.color-gray{background: #EB804A !important;}
+.colorlib-light-grey h4 {font-size: 19px; margin: 0px 0px 10px 0;}

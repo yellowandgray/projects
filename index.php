@@ -182,6 +182,12 @@
                                         <p><a href="#" class="view-more">View More</a></p>
                                     </div>
                                 </div>
+                                <div class="one-third color-3 animate-box">
+                                    <div class="desc2">
+                                        <h3>IMPORTANT INFORMATION</h3>
+                                        <p><a href="#" class="view-more">View More</a></p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="col-md-8">
@@ -270,7 +276,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-3 text-center animate-box">
-                                <div class="services">
+                                <div class="services color-yellow">
                                     <span class="icon">
                                         <i class="flaticon-books"></i>
                                     </span>
@@ -281,7 +287,7 @@
                                 </div>
                             </div>
                             <div class="col-md-3 text-center animate-box">
-                                <div class="services">
+                                <div class="services color-red">
                                     <span class="icon">
                                         <i class="flaticon-professor"></i>
                                     </span>
@@ -292,7 +298,7 @@
                                 </div>
                             </div>
                             <div class="col-md-3 text-center animate-box">
-                                <div class="services">
+                                <div class="services color-green">
                                     <span class="icon">
                                         <i class="flaticon-book"></i>
                                     </span>
@@ -303,7 +309,7 @@
                                 </div>
                             </div>
                             <div class="col-md-3 text-center animate-box">
-                                <div class="services">
+                                <div class="services color-gray">
                                     <span class="icon">
                                         <i class="flaticon-diploma"></i>
                                     </span>
@@ -377,7 +383,12 @@
                         <div class="row">
                             <div class="col-md-12 colorlib-heading animate-box">
                                 <h2 class="text-center">Programs offered for the Academic year 2019- 2020 </h2>
-                                <p>Pre – K – Early Childhood education is the child’s first step towards social engagement. This prepares toddlers through Experiential learning activities, making real life connections. Our program is based largely on the developmentally appropriate practice thereby delivering the right curriculum at the right age<br/> LKG & UKG – The Kindergarten programs provided the child with Academic and overall readiness to step into the world of Primary education, from Early years.<br/> Classes I to V – Primary class program, to be affiliated to the CBSE method of education, is available from the Academic year 2019. Our friendly & welcoming classrooms offer children the space to learn the right way.</p>
+                                <h4 class="color-blue bold">PRE – KG</h4>
+                                <p>Early Childhood education is the child’s first step towards social engagement. This prepares toddlers through Experiential learning activities, making real life connections. Our program is based largely on the developmentally appropriate practice thereby delivering the right curriculum at the right age</p> 
+                                <h4 class="color-blue bold"> LKG & UKG</h4>
+                                <p>The Kindergarten programs provided the child with Academic and overall readiness to step into the world of Primary education, from Early years.</p> 
+                                <h4 class="color-blue bold"> CLASSES I to V</h4>  
+                                <p>Primary class program, to be affiliated to the CBSE method of education, is available from the Academic year 2019. Our friendly & welcoming classrooms offer children the space to learn the right way.</p>
                             </div>
                         </div>
                         <div class="row">
@@ -452,7 +463,7 @@
                             <div class="col-md-4 animate-box">
                                 <div class="classes">
                                     <div class="classes-img" style="background-image: url(images/activities/enpee-skateing-kits.jpg);">
-                                        <span class="price text-center"><small>Skating</small></span>
+                                        <span class="price text-center"><small>Sports</small></span>
                                     </div>
                                     <!--                                    <div class="desc">
                                                                             <h3><a href="#">Convert HTML to WordPress</a></h3>
@@ -627,7 +638,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
-                            <h2>Recent News</h2>
+                            <h2>Important Information</h2>
                             <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
                         </div>
                     </div>
