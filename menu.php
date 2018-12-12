@@ -1,24 +1,26 @@
 <nav class="colorlib-nav" role="navigation">
-    <!--    <div class="upper-menu">
+        <div class="upper-menu">
             <div class="container">
                 <div class="row">
                     <div class="col-xs-4">
-                        <p>Welcome to ENPEE International School</p>
+                        <p>
+                            <i class="fa fa-phone"></i>&nbsp;<a href="tel:+91 93840 10241">+91 93840 10241</a>&nbsp;&nbsp;
+                            <i class="fa fa-envelope"></i>&nbsp;<a href="mailto:info@enpeekkl.com">info@enpeekkl.com</a>
+                        </p>
                     </div>
                     <div class="col-xs-6 col-md-push-2 text-right">
                         <p>
                         <ul class="colorlib-social-icons">
-                            <li><a href="#"><i class="icon-twitter"></i></a></li>
-                            <li><a href="#"><i class="icon-facebook"></i></a></li>
-                            <li><a href="#"><i class="icon-linkedin"></i></a></li>
-                            <li><a href="#"><i class="icon-dribbble"></i></a></li>
+                            <li><a href="#"><i class="fa fa-facebook-official"></i></a></li>&nbsp;
+                            <li><a href="#"><i class="fa fa-twitter-square"></i></a></li>&nbsp;
+                            <li><a href="#"><i class="fa fa-youtube-square"></i></a></li>&nbsp;
                         </ul>
                         </p>
-                        <p class="btn-apply"><a href="#">Apply Now</a></p>
+                        <p class="btn-apply"><a href="#">Entrol Now</a></p>
                     </div>
                 </div>
             </div>
-        </div>-->
+        </div>
     <div class="top-menu">
         <div class="container">
             <div class="row">

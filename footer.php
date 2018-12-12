@@ -2,13 +2,13 @@
     <div class="container">
         <div class="row row-pb-md">
             <div class="col-md-3 colorlib-widget">
-                <h4>About Eskwela</h4>
+                <img src="images/footer-logo.jpg" class="img-responsive" alt="" /><br/>
                 <p>Far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
                 <p>
                 <ul class="colorlib-social-icons">
-                    <li><a href="#"><i class="icon-twitter"></i></a></li>
-                    <li><a href="#"><i class="icon-facebook"></i></a></li>
-                    <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#"><i class="fa fa-youtube"></i></a></li>
                     <li><a href="#"><i class="icon-dribbble"></i></a></li>
                 </ul>
                 </p>
@@ -17,12 +17,12 @@
                 <h4>Quick Links</h4>
                 <p>
                 <ul class="colorlib-footer-links">
-                    <li><a href="#"><i class="icon-check"></i> About Us</a></li>
-                    <li><a href="#"><i class="icon-check"></i> Testimonials</a></li>
-                    <li><a href="#"><i class="icon-check"></i> Courses</a></li>
-                    <li><a href="#"><i class="icon-check"></i> Event</a></li>
-                    <li><a href="#"><i class="icon-check"></i> News</a></li>
-                    <li><a href="#"><i class="icon-check"></i> Contact</a></li>
+                    <li><a href="#"><i class="fa fa-check"></i> About Us</a></li>
+                    <li><a href="#"><i class="fa fa-check"></i> Testimonials</a></li>
+                    <li><a href="#"><i class="fa fa-check"></i> Courses</a></li>
+                    <li><a href="#"><i class="fa fa-check"></i> Event</a></li>
+                    <li><a href="#"><i class="fa fa-check"></i> News</a></li>
+                    <li><a href="#"><i class="fa fa-check"></i> Contact</a></li>
                 </ul>
                 </p>
             </div>
@@ -83,7 +83,7 @@
     </div>
 </footer>
 <div class="gototop js-top">
-    <a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
+    <a href="#" class="js-gotop"><i class="fa fa-arrow-up"></i></a>
 </div>
 
 <!-- jQuery -->
