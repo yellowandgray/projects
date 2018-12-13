@@ -500,14 +500,14 @@
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <div class="row animate-box">
-                                <div class="col-md-1"></div>
-                                <div class="col-md-3">
-                                    <img src="images/founder-haji-kamal-batcha.jpg" class="img-responsive" />
+                                <div class="col-md-4">
+                                    <img src="images/founder-haji-kamal-batcha.jpg" class="img-responsive" style="height: 337px"/>
                                 </div>
                                 <div class="col-md-6 hover-btn">
-                                    <p class="text-justify margin-bottom-0">He is a multi-faceted personality, with a pleasing disposition and a philanthropic bent of mind, but basically wedded to the pharma community, by creating new products at affordable rates for the community healthcare.<br/><a href="#">Read More</a></p>
-
-                                    <h2 class=text-center">Awards</h2>
+                                    <h4 class="text-left">Rtn. PHF. Hajee Mr. L. KAMAL  BATCHA</h4>
+                                    <p class="text-justify margin-bottom-0">He is a multi-faceted personality, with a pleasing disposition and a philanthropic bent of mind, but basically wedded to the pharma community, by creating new products at affordable rates for the community healthcare.<br/><br/><span class="bold">Founder and CHAIRMAN:  MARAICAYAR TRUST (1992)</span><br/><a href="#">Read More</a></p>
+                                    
+                                    <p class="text-center bold">Awards</p>
                                     <section class="customer-logos slider">
                                         <div class="slide"><img src="images/awards/enpee-awards-001.png"></div>
                                         <div class="slide"><img src="images/awards/enpee-awards-002.png"></div>
