@@ -16,7 +16,7 @@
                             <li><a href="#"><i class="fa fa-youtube-square"></i></a></li>&nbsp;
                         </ul>
                         </p>
-                        <p class="btn-apply"><a href="#">Entrol Now</a></p>
+                        <p class="btn-apply"><a href="#">Enroll Now</a></p>
                     </div>
                 </div>
             </div>
@@ -35,9 +35,6 @@
                             <ul class="dropdown">
                                 <li><a href="#">Promoters</a></li>
                                 <li><a href="#">Management</a></li>
-                                <li><a href="#">Our Vision</a></li>
-                                <li><a href="#">Our Mission</a></li>
-                                <li><a href="#">Our Motto</a></li>
                             </ul>
                         </li>
                         <li class="has-dropdown">

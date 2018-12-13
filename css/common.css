@@ -7,10 +7,11 @@
 .boder-10 { border-bottom: 10px solid #07a8e6; margin-left: -15px;}
 .boder-2 { border-bottom: 10px solid #b3bb05; margin-right: -15px; margin-left: -25px;}
 .bold {font-weight: bold;}
-.color-white {color: #ffffff;}
+.color-white {color: #ffffff !important;}
 .color-blue {color: #429ffc;}
 .blue-green {color: #97C923;}
 .float-right {float: right;}
+.margin-left-22 {margin-left: 22px;}
 .btn-color {
     font-size: 12px;
     text-transform: uppercase;
@@ -54,10 +55,10 @@
 
 .dot p {
     padding: 20px;
-    margin-top: 33px;
+    margin-top: 20px;
     color: #fff;
     font-weight: bold;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .border-right {
@@ -95,7 +96,7 @@
 #contact {
     background: #ffffff;
     padding: 25px;
-    margin: -165px 0px -75px;
+    margin: -50px 0px -50px;
     box-shadow: 0 0 5px 1px #eee, 0 5px 5px 0 #eee;
 }
 
@@ -243,3 +244,9 @@ fieldset {
     color: #fff;
     background: #07a8e6;
     border: 1px solid #07a8e6;}
+
+.list-style-type-inside {list-style: inside;}
+
+.padding-bottom-30 {padding-bottom: 30px}
+.margin-bottom-0 {margin-bottom: 0px;}
+.padding-15 {padding: 15px;}

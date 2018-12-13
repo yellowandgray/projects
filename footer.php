@@ -2,14 +2,14 @@
     <div class="container">
         <div class="row row-pb-md">
             <div class="col-md-3 colorlib-widget">
-                <img src="images/footer-logo.jpg" class="img-responsive" alt="" /><br/>
-                <p>Far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+                <img src="images/footer-logo.png" class="img-responsive" alt="" /><br/>
+                <p>World Class Education Institution with all the Modern Facilities to Ensure that your Child get the BEST Education in Karaikal </p>
                 <p>
                 <ul class="colorlib-social-icons">
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                     <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                    <li><a href="#"><i class="icon-dribbble"></i></a></li>
+<!--                    <li><a href="#"><i class="icon-dribbble"></i></a></li>-->
                 </ul>
                 </p>
             </div>
@@ -17,51 +17,52 @@
                 <h4>Quick Links</h4>
                 <p>
                 <ul class="colorlib-footer-links">
+                    <li><a href="index.php"><i class="fa fa-check"></i> Home</a></li>
                     <li><a href="#"><i class="fa fa-check"></i> About Us</a></li>
-                    <li><a href="#"><i class="fa fa-check"></i> Testimonials</a></li>
-                    <li><a href="#"><i class="fa fa-check"></i> Courses</a></li>
-                    <li><a href="#"><i class="fa fa-check"></i> Event</a></li>
-                    <li><a href="#"><i class="fa fa-check"></i> News</a></li>
+                    <li><a href="#"><i class="fa fa-check"></i> Chateau Francais</a></li>
+                    <li><a href="#"><i class="fa fa-check"></i> The Way We Work</a></li>
+                    <li><a href="#"><i class="fa fa-check"></i> Programs Offered</a></li>
+                    <li><a href="#"><i class="fa fa-check"></i> What Makes Us Different</a></li>
                     <li><a href="#"><i class="fa fa-check"></i> Contact</a></li>
                 </ul>
                 </p>
             </div>
 
             <div class="col-md-3 colorlib-widget">
-                <h4>Recent Post</h4>
+                <h4>Up Comming Events</h4>
                 <div class="f-blog">
                     <a href="blog.html" class="blog-img" style="background-image: url(images/blog-1.jpg);">
                     </a>
                     <div class="desc">
-                        <h2><a href="blog.html">Creating Mobile Apps</a></h2>
-                        <p class="admin"><span>18 April 2018</span></p>
+                        <h2><a href="blog.html">Grand Gala Meet</a></h2>
+                        <p class="admin"><span>10 Feb 2019</span></p>
                     </div>
                 </div>
                 <div class="f-blog">
                     <a href="blog.html" class="blog-img" style="background-image: url(images/blog-2.jpg);">
                     </a>
                     <div class="desc">
-                        <h2><a href="blog.html">Creating Mobile Apps</a></h2>
-                        <p class="admin"><span>18 April 2018</span></p>
+                        <h2><a href="blog.html">School Opening</a></h2>
+                        <p class="admin"><span>14 May 2019</span></p>
                     </div>
                 </div>
-                <div class="f-blog">
+<!--                <div class="f-blog">
                     <a href="blog.html" class="blog-img" style="background-image: url(images/blog-3.jpg);">
                     </a>
                     <div class="desc">
                         <h2><a href="blog.html">Creating Mobile Apps</a></h2>
                         <p class="admin"><span>18 April 2018</span></p>
                     </div>
-                </div>
+                </div>-->
             </div>
 
             <div class="col-md-3 colorlib-widget">
                 <h4>Contact Info</h4>
                 <ul class="colorlib-footer-links">
-                    <li>291 South 21th Street, <br> Suite 721 New York NY 10016</li>
-                    <li><a href="tel://1234567920"><i class="icon-phone"></i> + 1235 2355 98</a></li>
-                    <li><a href="mailto:info@yoursite.com"><i class="icon-envelope"></i> info@yoursite.com</a></li>
-                    <li><a href="http://luxehotel.com"><i class="icon-location4"></i> yourwebsite.com</a></li>
+                    <li>241/2, Puthakudy Village,<br> Vadamattam Main Road,<br/> Nedunkadu Panchayat,<br/>Karaikal – 609603, U.T of Pondicherry.</li>
+                    <li><a href="tel://+91 93840 10241"><i class="fa fa-phone"></i> +91 93840 10241</a></li>
+                    <li><a href="mailto:info@yoursite.com"><i class="fa fa-envelope"></i> info@enpeekkl.com</a></li>
+<!--                    <li><a href="http://luxehotel.com"><i class="icon-location4"></i> yourwebsite.com</a></li>-->
                 </ul>
             </div>
         </div>

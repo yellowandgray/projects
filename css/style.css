@@ -316,7 +316,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #colorlib-hero .flexslider .slides li {
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: center top;
     min-height: 600px;
     position: relative; }
 #colorlib-hero .flexslider .slides li .overlay {
@@ -686,10 +686,10 @@ h1, h2, h3, h4, h5, h6, figure {
     right: 10px;
     display: table;
     font-weight: 700;
-    color: #000;
+    color: #fff;
     width: 60px;
     height: 30px;
-    background: #FFC300; }
+    background: #97c923; }
 .classes .classes-img .price:before, .classes .classes-img .price:after {
     position: absolute;
     left: 0;
@@ -701,14 +701,14 @@ h1, h2, h3, h4, h5, h6, figure {
     height: 0;
     border-style: solid;
     border-width: 0 30px 18px 30px;
-    border-color: transparent transparent #FFC300 transparent; }
+    border-color: transparent transparent #97c923 transparent; }
 .classes .classes-img .price:after {
     bottom: -18px;
     width: 0;
     height: 0;
     border-style: solid;
     border-width: 18px 30px 0 30px;
-    border-color: #FFC300 transparent transparent transparent; }
+    border-color: #97c923 transparent transparent transparent; }
 .classes .classes-img .price small {
     font-weight: 700;
     display: table-cell;
@@ -1154,7 +1154,12 @@ h1, h2, h3, h4, h5, h6, figure {
 .colorlib-social-icons li a i {
     font-size: 20px !important;
     color: #000;
-/*    font-weight: bold; */}
+    /*    font-weight: bold; */}
+
+#colorlib-footer .colorlib-social-icons li a i {
+    font-size: 20px !important;
+    color: #fff;
+    /*    font-weight: bold; */}
 
 .colorlib-heading {
     margin-bottom: 5em; }
@@ -1257,7 +1262,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #colorlib-footer {
     padding-top: 6em;
     background: #25282a;
-    color: rgba(255, 255, 255, 0.6) !important; }
+    color: #ffffff !important; }
 #colorlib-footer p {
     font-size: 14px;
     line-height: 1.8; }
