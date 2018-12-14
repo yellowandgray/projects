@@ -320,7 +320,7 @@
                     </div>
                 </div>
             </div>
-            <div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/bg-sitemap.jpg);" data-stellar-background-ratio="0.5">
+            <div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/banner-01.jpg);" data-stellar-background-ratio="0.5">
                 <div class="overlay"></div>
                 <div class="container">
                     <div class="row">
@@ -500,14 +500,14 @@
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <div class="row animate-box">
-                                <div class="col-md-1"></div>
-                                <div class="col-md-3">
-                                    <img src="images/founder-haji-kamal-batcha.jpg" class="img-responsive" />
+                                <div class="col-md-4">
+                                    <img src="images/founder-haji-kamal-batcha.jpg" class="img-responsive" style="height: 337px"/>
                                 </div>
                                 <div class="col-md-6 hover-btn">
-                                    <p class="text-justify margin-bottom-0">He is a multi-faceted personality, with a pleasing disposition and a philanthropic bent of mind, but basically wedded to the pharma community, by creating new products at affordable rates for the community healthcare.<br/><a href="#">Read More</a></p>
-
-                                    <h2 class=text-center">Awards</h2>
+                                    <h4 class="text-left">Rtn. PHF. Hajee Mr. L. KAMAL  BATCHA</h4>
+                                    <p class="text-justify margin-bottom-0">He is a multi-faceted personality, with a pleasing disposition and a philanthropic bent of mind, but basically wedded to the pharma community, by creating new products at affordable rates for the community healthcare.<br/><br/><span class="bold">Founder and CHAIRMAN:  MARAICAYAR TRUST (1992)</span><br/><a href="#">Read More</a></p>
+                                    
+                                    <p class="text-center bold">Awards</p>
                                     <section class="customer-logos slider">
                                         <div class="slide"><img src="images/awards/enpee-awards-001.png"></div>
                                         <div class="slide"><img src="images/awards/enpee-awards-002.png"></div>
@@ -677,7 +677,7 @@
                                 <div class="desc">
                                     <h2><a href="blog.html">Grand i5 Meet</a></h2>
                                     <p class="admin"><span>Date:</span> <span>Feb 10, 2019</span></p>
-                                    <p>ENPEE International School Invites Parents and Children from all Local Communities to Participate in this event. Our Honorable Chief Minster of Pondicherry will be presiding over this function. There will be creative games and interactions for both parents and children, Art & Dance Competition. Grand Prices will be given and Winners will be announced on Radio & Television. Your kind participation is awaited.</p>
+                                    <p>ENPEE International School invites parents and children from all local communities residing in and around Karaikal to participate in this event. In this event, for both parents and children, there will be innovative games, puzzles, art, dance competition etc. Grand Prices will be given and winners will be announced on Radio & Television. Your kind participation is awaited.</p>
                                 </div>
                             </article>
                         </div>
@@ -721,8 +721,8 @@
                     <div class="row">
                         <div class="col-md-8 colorlib-heading animate-box">
                             <h2>Parents Corner</h2>
-                            <h3 class="text-justify">Dear Parents, <br/>Thank you for visiting our website. We look forward to meeting with you in person to discuss the Bright Future and Quality Education our Prestigious Institution can offer your Children. We will be happy to Show our campus and the world class facilities that you can avail. We have organized an event specially for you and your children.</h3>
-                            <h3 class="text-justify">Kindly Fill Out the Enquiry Form for further Details, <br/><br/><br/> With Best regards, <br/> ENPEE Management</h3>
+                            <h3 class="text-justify">Dear Parents, <br/>Thank you for visiting our website. We look forward to meeting with you in person to discuss the bright future and quality education provided by our prestigious school. We will be happy to show our campus and the world class facilities that are available for the benefit of students. We have organized an event specially for you and your children.</h3>
+                            <h3 class="text-justify">Kindly fill out the enquiry form for further details. <br/><br/><br/> With Best regards, <br/> ENPEE Management</h3>
                         </div>
 
                         <div class="col-md-4 animate-box">
