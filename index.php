@@ -175,28 +175,28 @@
                         <div class="col-md-4 intro-wrap">
                             <div class="intro-flex">
                                 <div class="one-third color-1 animate-box">
-                                    <span class="icon"><img src="images/gif-icons/board.gif" class="img-responsive" /></span>
+                                    <span class="icon"><img src="images/gif-icons/board.png" class="img-responsive" /></span>
                                     <div class="desc">
                                         <h3>TEACHING & LEARNING  METHODOLOGIES</h3>
                                         <p><a href="#" class="view-more">View More</a></p>
                                     </div>
                                 </div>
                                 <div class="one-third color-2 animate-box">
-                                    <span class="icon"><img src="images/gif-icons/book.gif" class="img-responsive" /></span>
+                                    <span class="icon"><img src="images/gif-icons/book.png" class="img-responsive" /></span>
                                     <div class="desc">
                                         <h3>PROGRAMS OFFERED ( Pre-KG - Class V )</h3>
                                         <p><a href="#" class="view-more">View More</a></p>
                                     </div>
                                 </div>
                                 <div class="one-third color-3 animate-box">
-                                    <span class="icon"><img src="images/gif-icons/bulb.gif" class="img-responsive" /></span>
+                                    <span class="icon"><img src="images/gif-icons/bulb.png" class="img-responsive" /></span>
                                     <div class="desc">
                                         <h3>WHAT MAKES US DIFFERENT</h3>
                                         <p><a href="#" class="view-more">View More</a></p>
                                     </div>
                                 </div>
                                 <div class="one-third color-3 animate-box">
-                                    <span class="icon"><img src="images/gif-icons/note.gif" class="img-responsive" /></span>
+                                    <span class="icon"><img src="images/gif-icons/note.png" class="img-responsive" /></span>
                                     <div class="desc">
                                         <h3>IMPORTANT INFORMATION</h3>
                                         <p><a href="#" class="view-more">View More</a></p>
@@ -320,7 +320,7 @@
                     </div>
                 </div>
             </div>
-            <div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/bg-sitemap.jpg);" data-stellar-background-ratio="0.5">
+            <div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/banner-01.jpg);" data-stellar-background-ratio="0.5">
                 <div class="overlay"></div>
                 <div class="container">
                     <div class="row">
@@ -677,7 +677,7 @@
                                 <div class="desc">
                                     <h2><a href="blog.html">Grand i5 Meet</a></h2>
                                     <p class="admin"><span>Date:</span> <span>Feb 10, 2019</span></p>
-                                    <p>ENPEE International School Invites Parents and Children from all Local Communities to Participate in this event. Our Honorable Chief Minster of Pondicherry will be presiding over this function. There will be creative games and interactions for both parents and children, Art & Dance Competition. Grand Prices will be given and Winners will be announced on Radio & Television. Your kind participation is awaited.</p>
+                                    <p>ENPEE International School invites parents and children from all local communities residing in and around Karaikal to participate in this event. In this event, for both parents and children, there will be innovative games, puzzles, art, dance competition etc. Grand Prices will be given and winners will be announced on Radio & Television. Your kind participation is awaited.</p>
                                 </div>
                             </article>
                         </div>
@@ -721,8 +721,8 @@
                     <div class="row">
                         <div class="col-md-8 colorlib-heading animate-box">
                             <h2>Parents Corner</h2>
-                            <h3 class="text-justify">Dear Parents, <br/>Thank you for visiting our website. We look forward to meeting with you in person to discuss the Bright Future and Quality Education our Prestigious Institution can offer your Children. We will be happy to Show our campus and the world class facilities that you can avail. We have organized an event specially for you and your children.</h3>
-                            <h3 class="text-justify">Kindly Fill Out the Enquiry Form for further Details, <br/><br/><br/> With Best regards, <br/> ENPEE Management</h3>
+                            <h3 class="text-justify">Dear Parents, <br/>Thank you for visiting our website. We look forward to meeting with you in person to discuss the bright future and quality education provided by our prestigious school. We will be happy to show our campus and the world class facilities that are available for the benefit of students. We have organized an event specially for you and your children.</h3>
+                            <h3 class="text-justify">Kindly fill out the enquiry form for further details. <br/><br/><br/> With Best regards, <br/> ENPEE Management</h3>
                         </div>
 
                         <div class="col-md-4 animate-box">
