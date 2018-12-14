@@ -175,28 +175,28 @@
                         <div class="col-md-4 intro-wrap">
                             <div class="intro-flex">
                                 <div class="one-third color-1 animate-box">
-                                    <span class="icon"><img src="images/gif-icons/board.gif" class="img-responsive" /></span>
+                                    <span class="icon"><img src="images/gif-icons/board.png" class="img-responsive" /></span>
                                     <div class="desc">
                                         <h3>TEACHING & LEARNING  METHODOLOGIES</h3>
                                         <p><a href="#" class="view-more">View More</a></p>
                                     </div>
                                 </div>
                                 <div class="one-third color-2 animate-box">
-                                    <span class="icon"><img src="images/gif-icons/book.gif" class="img-responsive" /></span>
+                                    <span class="icon"><img src="images/gif-icons/book.png" class="img-responsive" /></span>
                                     <div class="desc">
                                         <h3>PROGRAMS OFFERED ( Pre-KG - Class V )</h3>
                                         <p><a href="#" class="view-more">View More</a></p>
                                     </div>
                                 </div>
                                 <div class="one-third color-3 animate-box">
-                                    <span class="icon"><img src="images/gif-icons/bulb.gif" class="img-responsive" /></span>
+                                    <span class="icon"><img src="images/gif-icons/bulb.png" class="img-responsive" /></span>
                                     <div class="desc">
                                         <h3>WHAT MAKES US DIFFERENT</h3>
                                         <p><a href="#" class="view-more">View More</a></p>
                                     </div>
                                 </div>
                                 <div class="one-third color-3 animate-box">
-                                    <span class="icon"><img src="images/gif-icons/note.gif" class="img-responsive" /></span>
+                                    <span class="icon"><img src="images/gif-icons/note.png" class="img-responsive" /></span>
                                     <div class="desc">
                                         <h3>IMPORTANT INFORMATION</h3>
                                         <p><a href="#" class="view-more">View More</a></p>
